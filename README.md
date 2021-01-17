@@ -19,7 +19,7 @@ In the updated analysis Thomas High School’s ninth grade scores were removed a
 
 ## Updated Top Five
 
-![Top Five](https://github.com/Brooks2210/School_District_Analysis/blob/main/Resources/Top_Five_Original.pmg)
+![Top Five](https://github.com/Brooks2210/School_District_Analysis/blob/main/Resources/Top_Five_Original.png)
 
 ## Summary
 The district wide analyses provided several insights into the academics and financial health of the district. A closer analysis needs to be conducted on all District schools as their test scores were not consistent and there is either a reporting issue or larger misconduct. The Charter Schools are providing the best performance at a cheaper cost and should be either modeled district wide or looked at more closely for best practices. Overall, the analysis provides many insights, but perhaps shows many more questions that need to be asked and answered. 
