@@ -6,7 +6,7 @@ PyCity Schools needed an analysis of how each high school was doing on state man
 ## Results
 In reviewing the original analysis several anomalies are present. All the District schools have a much lower overall passing percentage than what would be expected given their individual Math and Reading passing percentages. In addition, the District schools spend more per student, but according to the analysis are getting less value for their spending compared to the Charter schools. The Charter school data is more consistent and inline with the individual passing rates of each subject except for Thomas High School. Given the anomalies in the District school data, the school board as asked that Thomas High School be further analyzed and the removal of the ninth grade scores be conducted. The original analysis is presented below as well as the top five schools in the original analyses.  
 
-![Original_Analysis](https://github.com/Brooks2210/School_District_Analysis/blob/main/Resources/Original_Analysis.PNG)
+![Original Metrics](https://github.com/Brooks2210/School_District_Analysis/blob/main/Resources/Original_Analysis.PNG)
 
 ## Top Five Schools
 
